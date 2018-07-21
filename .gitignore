@@ -1,4 +1,5 @@
 *.exe
+/32bit/*
 /GeanyPortable/*
 /python-3.*
 /settings/*
