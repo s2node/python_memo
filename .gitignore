@@ -1,0 +1,12 @@
+*.exe
+/GeanyPortable/*
+/python-3.*
+/settings/*
+/t/*
+/scripts/readme.txt
+/scripts/*.bat
+/scripts/Noshell.vbs
+/scripts/WinPythonIni.vbs
+/scripts/WinPython_PS_Prompt.ps1
+/notebooks/docs/*
+/notebooks/.*
