@@ -5,6 +5,7 @@
 /t/*
 /scripts/readme.txt
 /scripts/*.bat
+/scripts/.*
 /scripts/Noshell.vbs
 /scripts/WinPythonIni.vbs
 /scripts/WinPython_PS_Prompt.ps1
